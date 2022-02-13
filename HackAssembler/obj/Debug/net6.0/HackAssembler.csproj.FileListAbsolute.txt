@@ -1,0 +1,15 @@
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.csproj.AssemblyReference.cache
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.AssemblyInfoInputs.cache
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.AssemblyInfo.cs
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.csproj.CoreCompileInputs.cache
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\HackAssembler.exe
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\HackAssembler.deps.json
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\HackAssembler.runtimeconfig.json
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\HackAssembler.dll
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\ref\HackAssembler.dll
+C:\School\Assembler\HackAssembler\bin\Debug\net6.0\HackAssembler.pdb
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.dll
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\ref\HackAssembler.dll
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.pdb
+C:\School\Assembler\HackAssembler\obj\Debug\net6.0\HackAssembler.genruntimeconfig.cache
